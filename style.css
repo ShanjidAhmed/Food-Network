@@ -56,25 +56,25 @@ body{
 
 }
 #aboutme-img{
-    width: 65%;
+    width: 50%;
+    height: 80%;
     padding-left: 20%;
-    padding-top: 60px;
-    padding-bottom: 40px;
+    padding-top: 45px;
+    padding-bottom: 90px;
 }
 #sec2-bg{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-    background-size: 100% 60%;
-    margin-left: 10%;
-    margin-right: 10%;
+    background-size: 100% 65%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 section{
     border-bottom: 100px solid white;
 }
 #MyRecipies{
     text-align: center; 
-    border-top: 50px solid white;
-    border-bottom: 50px solid white;
+ 
     padding-left: 25%;
     padding-right: 25%;
 }
@@ -97,5 +97,17 @@ section{
     padding: px;
     margin-right: 40px;
     margin-left: 40px;
-    
+}
+.subcriptionInfo{
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 20px;
+}
+#subcriptionInfoBorder{
+    border: 10px solid white;
+    box-shadow: 1px 1px 30px rgb(206, 206, 206);
+    border-radius: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+
 }
