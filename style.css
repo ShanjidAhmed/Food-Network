@@ -17,6 +17,7 @@ a{
     background-image: linear-gradient(orange, tomato);
     padding: 15px 25px;
     font-weight: 1000;
+    font-size: 120%;
     border-radius: 40px;
     
 }
@@ -40,6 +41,7 @@ body{
     color: rgb(63, 63, 63);
     font-size: 110%;
     padding-right: 20%;
+    margin-bottom: 100px;
 }
 .display{
     display: flex;
@@ -55,9 +57,9 @@ body{
 
 }
 #aboutme-img{
-    width: 40%;
+    width: 45%;
     padding-left: 40%;
-    padding-top: 70px;
+    padding-top: 55px;
 }
 #sec2-bg{
     background-image: url(images/shapes/7.png);
@@ -67,4 +69,15 @@ body{
 }
 section{
     border-bottom: 100px solid white;
+}
+#MyRecipies{
+    text-align: center; 
+    border-top: 50px solid white;
+    border-bottom: 50px solid white;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#MyRecipies-para{
+    color: rgb(63, 63, 63);
+    font-size: 110%;
 }
