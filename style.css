@@ -1,0 +1,47 @@
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 70px;
+    color: rgb(119, 119, 119);
+    line-height: 15px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 25px;
+    font-weight: 1000;
+    border-radius: 40px;
+    
+}
+#div1-border{
+    border-top: 40px solid white;
+}
+}
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    text-align: justify;
+    color: rgb(63, 63, 63);
+    font-size: 110%;
+    padding-right: 200px;
+    border-bottom: 25px solid white;
+}
+.display{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.half-width{
+    width: 50%;
+    border: 2px solid white;
+}
+#sec1-img{
+    width: 75%;
+    padding-left: 15%;
+
+}
